@@ -1,0 +1,10 @@
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\bin\Debug\Algorithm.Tests.dll
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\bin\Debug\Algorithm.Tests.pdb
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\bin\Debug\Algorithm.dll
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\bin\Debug\Algorithm.pdb
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\obj\Debug\Algorithm.Tests.csprojAssemblyReference.cache
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\obj\Debug\Algorithm.Tests.csproj.CoreCompileInputs.cache
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\obj\Debug\Algorithm.Tests.csproj.CopyComplete
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\obj\Debug\Algorithm.Tests.dll
+C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm.Tests\obj\Debug\Algorithm.Tests.pdb
