@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"Microsoft.Extensions.DependencyInjection": "2.2.0"
+	}
+}
