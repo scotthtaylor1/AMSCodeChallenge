@@ -1,0 +1,94 @@
+﻿@model SimpleWeb.Models.Catalog
+
+@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Widget Manager</title>
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+	<link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+	<link href="@Url.Content("~/Content/bootstrap-theme.min.css")" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+	<div class="container">
+		<h2>Widget Manager</h2>
+
+		<hr />
+
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<form method="POST">
+					<div class="form-group">
+						<label for="description">Description</label>
+						<input type="text" name="description" id="description" size="50" class="form-control" placeholder="Enter Description" />
+					</div>
+					<div class="form-group">
+						<input type="submit" value="Add New Widget" class="btn btn-primary" />
+					</div>
+				</form>
+			</div>
+		</div>
+
+		<hr />
+
+		<div class="row">
+			<div class="col-md-12">
+				@foreach (var widget in Model.Widgets)
+				{
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<a href="@Url.Action("Delete", new {id = @widget.Id})" class="btn btn-danger pull-right delete">Delete</a>
+							<span>@widget.Description</span>
+						</div>
+					</div>
+
+				}
+			</div>
+		</div>
+
+	</div>
+
+	<script language="javascript" src="~/Scripts/jquery-2.1.4.min.js"></script>
+
+	<script language="javascript">
+
+		$(document).ready(function () {
+
+			$('body').on('click', 'a.delete', function (e) {
+				e.preventDefault();
+
+				var action = $(this).attr('href'),
+					parent = $(this).parents('.panel');
+
+				/*Poor jQuery, always getting blamed for other's problems. The issue wasn't jQuery, but the controller 
+				 * returning EmptyResult(). Returning Json(true) seems to fix the issue*/
+
+				$.ajax({
+					url: action,
+					type: 'POST',
+					dataType: 'JSON',
+					success: function (data) {
+						if (!data) {
+							alert('Widget does not exist! Refreshing your browser.');
+							location.reload();
+						} else {
+							parent.remove();
+						}
+					}
+				});
+
+			});
+		});
+
+	</script>
+
+</body>
+
+
+
+</html>
