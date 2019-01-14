@@ -1,0 +1,13 @@
+﻿In an attempt to modernize, we are moving to new version of jQuery in our 
+simple web project.  In the process of this upgrade we have broken the 
+delete functionality on the default web page (Widget Manager).  The delete
+button used to remove the widget from the page, but now it doesn't seem to 
+be deleted (or at least there is nothing that happens on the UI).  When 
+delete is clicked a second time, the page throws a warning that the item 
+does not exist!  We need this page fixed ASAP.  The delete should still 
+do an AJAX post when so the user does not loose their scroll position when 
+the list of widgets gets long.
+
+Feel free to make whatever changes you deem necessary to fix this page.
+You should also ensure that all of the unit tests still pass when you 
+are done (with changes if necessary).
