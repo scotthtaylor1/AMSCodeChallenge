@@ -28,7 +28,7 @@ namespace Implementations
             _complianceMapService.WriteComplianceMap(complianceMapData);
         }
 
-        private List<string> ReadFileData(string fileName)
+        public List<string> ReadFileData(string fileName)
         {
             var step = 1;
             var rows = 1;
@@ -60,7 +60,7 @@ namespace Implementations
             return finalMap;
         }
 
-        private List<string> ReadUserData()
+        public List<string> ReadUserData()
         {
             int rows = 0;
             int columns = 0;
