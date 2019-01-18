@@ -1,0 +1,16 @@
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\obj\Debug\netcoreapp2.1\ComplianceMap.csprojAssemblyReference.cache
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\obj\Debug\netcoreapp2.1\ComplianceMap.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\obj\Debug\netcoreapp2.1\ComplianceMap.AssemblyInfoInputs.cache
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\obj\Debug\netcoreapp2.1\ComplianceMap.AssemblyInfo.cs
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\ComplianceMap.deps.json
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\ComplianceMap.runtimeconfig.json
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\ComplianceMap.runtimeconfig.dev.json
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\ComplianceMap.dll
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\ComplianceMap.pdb
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\Implementations.dll
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\bin\Debug\netcoreapp2.1\Implementations.pdb
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\obj\Debug\netcoreapp2.1\ComplianceMap.csproj.CopyComplete
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\obj\Debug\netcoreapp2.1\ComplianceMap.dll
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\ComplianceMap\obj\Debug\netcoreapp2.1\ComplianceMap.pdb
