@@ -4,3 +4,9 @@ C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeRe
 C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
 C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm\obj\Debug\Algorithm.dll
 C:\Users\cindy.taylor\Downloads\AMSCandidateCodeReview-master\AMSCandidateCodeReview-master\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\Algorithm\bin\Debug\Algorithm.dll
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\Algorithm\obj\Debug\Algorithm.dll
+C:\Users\scott\Documents\Scott\Code Examples\AMSCandidateCodeReview\AMSCandidateCodeReview-master\Algorithm\obj\Debug\Algorithm.pdb
